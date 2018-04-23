@@ -4,4 +4,5 @@ int main(){
 	printf("hello\n");
 	printf("good\n");
 	printf("good1\n");
+	printf("master\n");
 }
